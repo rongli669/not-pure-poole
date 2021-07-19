@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: RONG
+description: A mon départ, le saule en pleurs; Au retour tard, la neige en fleurs.
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -33,11 +33,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Rong Li
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
+    - https://www.facebook.com/profile.php?id=100047782932359
+    - https://github.com/rongli669
 lang: en
 
 sass:
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Rong Li
+  url: https://github.com/rongli669
+  email: lirongthu@163.com
